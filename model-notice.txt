@@ -1,0 +1,11 @@
+üğdül istedi ben yaptım
+
+U²-Netp — Xuebin Qin et al. (Apache License 2.0)
+https://github.com/xuebinqin/U-2-Net
+https://www.apache.org/licenses/LICENSE-2.0
+
+ONNX conversion distributed by rembg (MIT)
+https://github.com/danielgatis/rembg
+
+ONNX Runtime Web — Microsoft (MIT)
+https://github.com/microsoft/onnxruntime
